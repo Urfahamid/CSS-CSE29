@@ -1,0 +1,16 @@
+.od
+{
+    border:5px solid black;
+    height: 700px;
+    width: 900px;
+}
+.inD
+{
+    text-align: center;
+    align-content: center;
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+    border: 100px solid blue;
+    margin: 100px;
+}
