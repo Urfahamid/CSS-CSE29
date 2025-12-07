@@ -1,0 +1,10 @@
+div {
+    border:color yellow;
+}
+span{
+    display: block;
+}
+div{
+    display:inline;
+}
+
